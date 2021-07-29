@@ -11,3 +11,4 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+![Imagen del Yaktocat](https://octodex.github.com/images/yaktocat.png).
